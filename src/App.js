@@ -85,6 +85,7 @@ const App = ({ signOut }) => {
 		});
 	}
 
+	
   return (
     <View className="App">
       <Heading level={1}>My Online Album</Heading>
